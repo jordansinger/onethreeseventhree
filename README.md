@@ -12,6 +12,7 @@
 - Gold Ring
 
 [API](https://api.onethreeseventhree.com)  
+[API Documentation](https://github.com/jordansinger/loot-bag-1373-api)  
 [OpenSea](https://opensea.io/assets/0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7/1373)  
 [Loot](https://lootproject.com)  
 [Figma](https://www.figma.com/community/file/1015246149417793402/1373)  
